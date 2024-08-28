@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a cool project
 - 📫 How to reach me: You Can't
-- 😄 Pronouns: What's a pronoun?
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm 10 years old
 
 <!---
